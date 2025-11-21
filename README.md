@@ -16,14 +16,15 @@ Physics-based arcade puzzelgame.
 
 Beschrijving
 
-Schrijf in twee of drie zinnen wat de speler doet, wat er geraakt kan worden en hoe er punten worden gescoord.
+de speler schiet een balletje dat andere ballentjes raakt. aan de hand van welke kleur bal de speler krijgt kan de speler die zelfde kleur bal vernietigen door het te schieten op dezelfde kleur.
 
 Gameplaykern
 
-Bal: wat is de bal in jouw thema.
+Bal: het balletje van de speler is een random kleur. afhangend van de  kleur van de ball kan de speler dezelfde kleur balletjes in het spel vernietigen.
 Targets of bumps: wat raakt de bal.
-Score: wanneer en hoeveel krijg je punten.
-Doel: wat is een geslaagde beurt of level.
+Score: als de speler balletjes vernietigd krijgt ie punten. afhangend van de hoeveelheid ballen word ook de hoeveelheid punten bepaald. 1 balletje = 2 punten.
+Doel: het behalen van een aantal bepaalde punten.
+
 Stijl en sfeer
 
 Korte omschrijving van thema, kleuren en geluid.
