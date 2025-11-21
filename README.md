@@ -8,7 +8,7 @@ les 1.2 array en list
 les 1.1 project
 Titel (werktitel)
 
-Schrijf hier de naam van je spel.
+orb destroyer
 
 Genre
 
@@ -45,10 +45,10 @@ LEVELSCHETS
 
 REFLECTIE - WEEK 1
 
-Wat heb je deze week gemaakt.
-Hoe heb je dit aangepakt.
-Waar liep je tegenaan en hoe heb je dat opgelost of wat heb je nodig.
-Welke theorie of Unity-onderdelen heb je geleerd of toegepast.
+Wat heb je deze week gemaakt? ik heb deze week een random item system gemaakt en begonnen aan de schets en stappenplan voor het project.
+Hoe heb je dit aangepakt? door alles optijd aftemaken en in de les te maken.
+Waar liep je tegenaan en hoe heb je dat opgelost of wat heb je nodig? nergens voor nu. alles ging goed, behalve dat ik een klein probleempje met unity had voor het random item system.
+Welke theorie of Unity-onderdelen heb je geleerd of toegepast? arrays.
 
 
 ---------------------------------------------------------------
