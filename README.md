@@ -32,11 +32,13 @@ Structuur van het level
 Bovenaan: schietplek.
 Midden: veld met targets.
 Onderaan: opvang of doelgebied voor het einde van de beurt.
-Levelschets
+
+LEVELSCHETS
 
 Maak een eenvoudige schets van je startlevel met schietplek, targets en onderzijde.
 Voeg de schets toe aan de README.
-Reflectie – Week 1
+
+REFLECTIE - WEEK 1
 
 Beantwoord kort in je README:
 
