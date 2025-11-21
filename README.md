@@ -29,6 +29,7 @@ Stijl en sfeer
 
 Korte omschrijving van thema, kleuren en geluid.
 
+
 Structuur van het level
 
 Bovenaan: schietplek.
@@ -37,12 +38,9 @@ Onderaan: opvang of doelgebied voor het einde van de beurt.
 
 LEVELSCHETS
 
-Maak een eenvoudige schets van je startlevel met schietplek, targets en onderzijde.
-Voeg de schets toe aan de README.
+
 
 REFLECTIE - WEEK 1
-
-Beantwoord kort in je README:
 
 Wat heb je deze week gemaakt.
 Hoe heb je dit aangepakt.
