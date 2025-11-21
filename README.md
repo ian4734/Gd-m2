@@ -38,6 +38,8 @@ Onderaan: opvang of doelgebied voor het einde van de beurt.
 links: schema met punten.
 
 LEVELSCHETS
+<img width="1512" height="982" alt="Scherm­afbeelding 2025-11-21 om 12 44 01" src="https://github.com/user-attachments/assets/f1660c32-4ad0-4cc5-ab55-1511b98a6264" />
+
 
 
 
