@@ -28,7 +28,7 @@ Doel: het behalen van een aantal bepaalde punten.
 Stijl en sfeer
 
 Korte omschrijving van thema, kleuren en geluid.
-
+de kleuren van de balletjes zijn allemaal random. voor  het geluid maken de balletjes een geluid als ze vernietigd worden.
 
 Structuur van het level
 
