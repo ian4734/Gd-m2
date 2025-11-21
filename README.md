@@ -35,6 +35,7 @@ Structuur van het level
 Bovenaan: schietplek.
 Midden: veld met targets.
 Onderaan: opvang of doelgebied voor het einde van de beurt.
+links: schema met punten.
 
 LEVELSCHETS
 
