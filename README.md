@@ -9,5 +9,6 @@ les 1.1, concept:
 
 les 1.1, level schets:
 
-week 1 reflectie:
+week 1, reflectie:
+
 ---------------------------------------------------------------
