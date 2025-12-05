@@ -31,7 +31,7 @@ public class Random : MonoBehaviour
         }
 
     }
-}ading random.cs…]()
+
 
 
 
