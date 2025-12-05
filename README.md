@@ -59,3 +59,5 @@ Welke theorie of Unity-onderdelen heb je geleerd of toegepast? arrays.
 
 
 ---------------------------------------------------------------
+WEEK 2
+les 2.1
