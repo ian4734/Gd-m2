@@ -63,6 +63,12 @@ WEEK 2
 
 les 2.1 ![Schermopname2025-12-05om12 03 54-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f44e71ea-39a7-45fc-b96b-76e7dc2bde39)
 
+Script.aim:[Aim.cs](https://github.com/user-attachments/files/23960708/Aim.cs)
+
+
+
+script.shoot:[Shoot.cs](https://github.com/user-attachments/files/23960702/Shoot.cs)
+
 
 Wat heb je deze week gemaakt: ik heb een canon gemaakt die balletjes afvuurt.
 Hoe heb je dit aangepakt: door een empty object te maken en prefabs. en mee te doen met de uitleg.
