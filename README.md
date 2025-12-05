@@ -61,3 +61,9 @@ Welke theorie of Unity-onderdelen heb je geleerd of toegepast? arrays.
 ---------------------------------------------------------------
 WEEK 2
 les 2.1
+
+
+Wat heb je deze week gemaakt: ik heb een canon gemaakt die balletjes afvuurt.
+Hoe heb je dit aangepakt: door een empty object te maken en prefabs. en mee te doen met de uitleg.
+Waar liep je tegenaan en hoe heb je dat opgelost of wat heb je nodig: het maken van de canon ging niet helemaal goed. ik heb dit opgelost door de foto op de goede manier in mijn unity te zetten.
+Welke theorie of Unity-onderdelen heb je geleerd of toegepast (AddForce, Rigidbody, Collider, OnCollisionEnter): ik heb prefabs toegepast en ik heb empty objects gebruikt wat ik nooit eerder had gebruikt.
