@@ -70,6 +70,10 @@ Script.aim:[Aim.cs](https://github.com/user-attachments/files/23960708/Aim.cs)
 script.shoot:[Shoot.cs](https://github.com/user-attachments/files/23960702/Shoot.cs)
 
 
+Les 2.2 ![Schermopname2025-12-09om12 54 31-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/fd80a48f-dcf5-40e2-897c-4d2527127f41)
+
+
+
 Wat heb je deze week gemaakt: ik heb een canon gemaakt die balletjes afvuurt, en een krachtlijn.
 Hoe heb je dit aangepakt: door een empty object te maken en prefabs. en mee te doen met de uitleg.
 Waar liep je tegenaan en hoe heb je dat opgelost of wat heb je nodig: het maken van de canon ging niet helemaal goed. ik heb dit opgelost door de foto op de goede manier in mijn unity te zetten.
