@@ -72,7 +72,7 @@ script.shoot:[Shoot.cs](https://github.com/user-attachments/files/23960702/Shoot
 
 Les 2.2 ![Schermopname2025-12-09om12 54 31-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/fd80a48f-dcf5-40e2-897c-4d2527127f41)
 
-
+script.shoot+krachtlijn:[Shoot.cs](https://github.com/user-attachments/files/24054455/Shoot.cs)
 
 Wat heb je deze week gemaakt: ik heb een canon gemaakt die balletjes afvuurt, en een krachtlijn.
 Hoe heb je dit aangepakt: door een empty object te maken en prefabs. en mee te doen met de uitleg.
