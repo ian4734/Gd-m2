@@ -70,7 +70,10 @@ Script.aim:[Aim.cs](https://github.com/user-attachments/files/23960708/Aim.cs)
 script.shoot:[Shoot.cs](https://github.com/user-attachments/files/23960702/Shoot.cs)
 
 
-Wat heb je deze week gemaakt: ik heb een canon gemaakt die balletjes afvuurt.
+Wat heb je deze week gemaakt: ik heb een canon gemaakt die balletjes afvuurt, en een krachtlijn.
 Hoe heb je dit aangepakt: door een empty object te maken en prefabs. en mee te doen met de uitleg.
 Waar liep je tegenaan en hoe heb je dat opgelost of wat heb je nodig: het maken van de canon ging niet helemaal goed. ik heb dit opgelost door de foto op de goede manier in mijn unity te zetten.
 Welke theorie of Unity-onderdelen heb je geleerd of toegepast (AddForce, Rigidbody, Collider, OnCollisionEnter): ik heb prefabs toegepast en ik heb empty objects gebruikt wat ik nooit eerder had gebruikt.
+
+
+l
