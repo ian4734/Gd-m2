@@ -5,8 +5,7 @@ les 1.2 array en list
 
 
 
-{
-    [SerializeField] private string[] bosses = new string[10];
+
 
     void Update()
     {
