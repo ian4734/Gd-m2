@@ -1,4 +1,4 @@
-WEEK 1
+[Aim.cs](https://github.com/user-attachments/files/24190946/Aim.cs)WEEK 1
 
 les 1.2 array en list
 ![opdracht 1 1 p2](https://github.com/user-attachments/assets/32ef2d9e-392c-4f8a-91c5-7ff1743722f4)
@@ -85,7 +85,21 @@ WEEK 2
 
 les 2.1 ![Schermopname2025-12-05om12 03 54-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f44e71ea-39a7-45fc-b96b-76e7dc2bde39)
 
-Script.aim:[Aim.cs](https://github.com/user-attachments/files/23960708/Aim.cs)
+{
+    void Update()
+    {
+        //positie van het gameobject (kanon) op het scherm bepalen
+        Vector3 pos = Camera.main.WorldToScreenPoint(transform.position);
+        //Richting tussen het gameobject en je muiscursor bepalen
+        Vector3 dir = Input.mousePosition - pos;
+        //Bereken de hoek tussen het gameobject en de muiscursor in graden
+        float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
+        //Roteer het gameobject met deze hoek om de z-as
+        transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
+    }
+}
+
+
 
 
 
