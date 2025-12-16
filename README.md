@@ -85,8 +85,10 @@ WEEK 2
 
 les 2.1 ![Schermopname2025-12-05om12 03 54-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f44e71ea-39a7-45fc-b96b-76e7dc2bde39)
 
-script.aim:[Uploadinusing UnityEngine;
+script.aim:[Aim.cs](https://github.com/user-attachments/files/24190984/Aim.cs)
+using UnityEngine;
 
+public class Aim : MonoBehaviour
 {
     void Update()
     {
