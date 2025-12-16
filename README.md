@@ -1,11 +1,37 @@
-
 WEEK 1
 
 les 1.2 array en list
 ![opdracht 1 1 p2](https://github.com/user-attachments/assets/32ef2d9e-392c-4f8a-91c5-7ff1743722f4)
 
 
-Code:[random.cs](https://github.com/user-attachments/files/23956566/random.cs)
+Code:[Uploadusing UnityEngine;
+
+
+public class Random : MonoBehaviour
+{
+    [SerializeField] private string[] bosses = new string[10];
+
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Backspace)) PrintRandomItem();
+        if (Input.GetKeyDown(KeyCode.Escape)) PrintAllItems();
+    }
+    private void PrintRandomItem()
+    {
+        int RandomItem = Random.Range(0, bosses.Length);
+        Debug.Log(bosses[RandomItem]);
+
+    }
+    private void PrintAllItems()
+    {
+        for (int i = 0; i < bosses.Length; i++)
+        {
+            Debug.Log($"[{i}] {bosses[i]}");
+        }
+
+    }
+}ing random.cs…]()
+
 
 
 
